@@ -183,7 +183,6 @@ const  DishDetail = (props) => {
                         <RenderComments comments={props.comments} postComment={props.postComment}
                                         dishId={props.dish.id}/>                        
                     </div>
-
                 </div>
                 <div className="row"></div>
             </div>
